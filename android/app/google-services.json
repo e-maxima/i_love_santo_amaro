@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480958630196",
+    "firebase_url": "https://ilovesantoamaro-4119f.firebaseio.com",
+    "project_id": "ilovesantoamaro-4119f",
+    "storage_bucket": "ilovesantoamaro-4119f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480958630196:android:4bd5505ee98f3dd205fd61",
+        "android_client_info": {
+          "package_name": "com.example.i_love_santo_amaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480958630196-jqmjkc2750jlm80can4l68eur150g635.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcV7MSgzd5HQF5QltboATmQKohhevYBbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480958630196-jqmjkc2750jlm80can4l68eur150g635.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
